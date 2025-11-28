@@ -127,3 +127,11 @@ Simply open the file to review the SQL logic.
 # Power BI
 
 Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
+
+
+##  Author
+**G.L.Bhavishya**
+
+##  Contact
+- Email: gudabhavishya@gmail.com 
+- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264
