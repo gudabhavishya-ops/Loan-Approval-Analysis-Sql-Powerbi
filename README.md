@@ -134,4 +134,4 @@ Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
 
 ##  Contact
 - Email: gudabhavishya@gmail.com 
-- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264
+- LinkedIn: www.linkedin.com/in/bhavishya-guda
